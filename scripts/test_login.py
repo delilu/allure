@@ -7,13 +7,7 @@ class TestLogin:
         assert 1
 
     def test_login3(self):
-        assert 
-		
-	def test_login4(self):
         assert 1
 
-
-	def test_login5(self):
+    def test_login4(self):
         assert 1
-		
-		
